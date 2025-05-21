@@ -1,11 +1,11 @@
 body{
     background-color: beige;
-
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
 }
 div{background-color: rgb(255, 255, 255);
 max-width: 736px;
 margin-inline: auto;
-margin-block: 30px;
+margin-block: 10px;
 border-radius: 24px;
 padding: 40px;
 
@@ -42,7 +42,8 @@ p{
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-ul{margin-left: 20px;
+ul{
+    margin-left: 20px;
     margin-bottom: 8px;
 }
 li + li{
@@ -54,6 +55,7 @@ div.j{
 li{margin-left: 10px;}
 h2.m{
     color: rgb(38, 183, 250);
+    margin-block: 10px;
 }
 hr{
    margin-top: 8px;
